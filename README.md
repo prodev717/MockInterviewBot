@@ -1,6 +1,6 @@
-# Monk Interview Bot (Speech to Speech)
+# Mock Interview Bot (Speech to Speech)
 
-An AI-powered interactive Monk interview agent with **speech-to-text** and **text-to-speech** capabilities. Users can upload their resumes and get interviewed for a specified role in a realistic conversational style. Each user session is personalized with unique chat history linked to their email.
+An AI-powered interactive Mock interview agent with **speech-to-text** and **text-to-speech** capabilities. Users can upload their resumes and get interviewed for a specified role in a realistic conversational style. Each user session is personalized with unique chat history linked to their email.
 
 ---
 
@@ -21,8 +21,8 @@ An AI-powered interactive Monk interview agent with **speech-to-text** and **tex
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/prodev717/MonkInterviewBot.git
-cd MonkInterviewBot
+git clone https://github.com/prodev717/MockInterviewBot.git
+cd MockInterviewBot
 ```
 
 2. Install dependencies:
